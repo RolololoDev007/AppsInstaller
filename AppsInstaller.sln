@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppsInstaller", "AppsInstaller\AppsInstaller.csproj", "{4A4528F1-9BC7-446E-8C7C-22D3330F6814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControl", "ButtonControl2\ButtonControl.csproj", "{224F28A8-B95F-4639-BD4F-A4372E4F3AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4528F1-9BC7-446E-8C7C-22D3330F6814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4528F1-9BC7-446E-8C7C-22D3330F6814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4528F1-9BC7-446E-8C7C-22D3330F6814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4528F1-9BC7-446E-8C7C-22D3330F6814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224F28A8-B95F-4639-BD4F-A4372E4F3AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224F28A8-B95F-4639-BD4F-A4372E4F3AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224F28A8-B95F-4639-BD4F-A4372E4F3AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224F28A8-B95F-4639-BD4F-A4372E4F3AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C9E164-AF50-4385-A68D-F97E72DDEC33}
+	EndGlobalSection
+EndGlobal
